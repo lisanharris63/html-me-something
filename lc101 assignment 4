@@ -1,8 +1,26 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <title>Childhood Dreams Do Come True </title>
-        <link rel="stylesheet" type="text/css" href="style.css"/>
+ <style>
+           h1{
+                
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: blue;
+}
+    </style>
+            
+    <style>        
+            h2{
+            background-color: red
+            }
+        </style>
+        <title>
+          <p >Childhood Dreams Do Come True.</p>
+        </title>
+        
     </head>
     <body>
         <header>
@@ -11,18 +29,11 @@
             <a> href=“https://en.wikipedia.org/wiki/Fort_Worth,_Texas”> Visit Wikipedia.org/wiki/Fort_Worth,_Texas!</a> <br>
             <a> href=”https://militarybenefits.info/military-ranks-insignia-charts/“> Visit Military Benefits.Info </a> 
         </header>
-        <h2>Childhood Dreams Do Come True</h2>
-        <h2> Aim High </h2>
-        <h2>Focused Teen</h2>
-        <h2>Career Minded</h2>
-        
+
         <main>
-            <!-- intro -->
             <h2>Childhood Dreams Do Come True</h2>
-          <article> 
-            <!-- example of accomplishments -->
-            <p> What It Is Like to Live A Childhood Dream Even When Nobody Is Watching </p>
-          </article>
+            <article> 
+            <p> What It Is Like to Live A Childhood Dream Even When Nobody Is Watching </p></article>
             <h2> Aim High </h2>
             <p>When I was thirteen years old my brother came home from Germany (he was in the Army) and purchase a brand new Camaro. That is when I knew that the  military was going to be my chosen profession. I seen first hand how it can change your life. Military was going to allow me to travel the world. Military would allow me to retire before forty. Military was going to provide financial security for my family.
             <h2>Focused Teen</h2>
@@ -31,10 +42,4 @@
             <p>I started researching each branch of the military for retirement requirement which was my ultimate desire. The standard was to complete 20 years of active duty in good standing. I figured that I would go directly out of high school therefore I would be thirty-nine or forty at the oldest. With this plan I would be able to retire never having to work again. I then researched the requirement to joining each branch and the Air Force seem to offer better opportunities and accommodation which was important to me. Air Force retirement requirement was not as stringent as the other branches. You where able to retire as an E-5.  I kept in constant communication with my brother on what he recommended would be best for me.</p>
             <h2>All About Family </h2>
             <p>I realized that I could make almost as much money a month with all the incentives the military offered than my parents made. The additional money could allow me to save and become financially independent by the retirement. I would be able to assist my parents with the basics so they would not have to work so hard and have time with my special needs family member.</p>
-        
         </main>
-        <footer>
-            <p>&copy; Author: Felecia Harris</p>  
-        </footer>
-    </body>
-</html>
